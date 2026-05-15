@@ -9,9 +9,9 @@
   },
   "plugins": [
     {
-      "name": "writing-style",
-      "description": "Skills for analysing writing style at scale — sample a person's Google Drive docs or a blog's posts, then synthesise a structured style guide for imitation or reference.",
-      "source": "./plugins/writing-style"
+      "name": "writing-skills",
+      "description": "Skills for writing collaboration: analyse someone's writing style at scale (Drive docs or blog posts), and draft/review/iterate prose in a target voice with audience-aware critique.",
+      "source": "./plugins/writing-skills"
     }
   ]
 }

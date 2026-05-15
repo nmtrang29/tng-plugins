@@ -11,7 +11,7 @@ A growing collection of themed plugins for product design, writing analysis, and
 claude plugin marketplace add https://github.com/nmtrang29/tng-plugins
 
 # Install a plugin
-claude plugin install writing-style@tng-plugins
+claude plugin install writing-skills@tng-plugins
 
 # Reload Claude Code to pick it up
 /reload-plugins
@@ -21,7 +21,7 @@ claude plugin install writing-style@tng-plugins
 
 | Plugin | Description |
 |---|---|
-| [`writing-style`](plugins/writing-style/) | Analyse a person's writing style at scale — Google Drive docs or blog posts. |
+| [`writing-skills`](plugins/writing-skills/) | Analyse someone's writing style from Google Drive docs or blog posts; draft, review, and iterate prose in a target voice. |
 
 More coming.
 

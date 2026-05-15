@@ -1,8 +1,0 @@
-{
-  "name": "writing-style",
-  "description": "Skills for analysing writing style at scale: sample a person's Google Drive docs (via Drive MCP) or a blog's posts (via WebFetch), then synthesise a structured style guide. Useful for capturing a colleague's voice for ghost-writing, building author imitation prompts, or analysing your own writing.",
-  "author": {
-    "name": "Trang Nguyen",
-    "url": "https://github.com/nmtrang29"
-  }
-}

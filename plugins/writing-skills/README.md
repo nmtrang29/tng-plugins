@@ -1,6 +1,6 @@
-# writing-style
+# writing-skills
 
-Skills for analysing writing style at scale. Given a source (Google Drive email or blog URL), these skills sample many docs/posts in parallel and synthesise a structured style guide that captures voice, structural patterns, signature expressions, and anti-patterns — useful for ghost-writing in someone's voice, imitating an author's blog tone, or characterising your own writing.
+A growing collection of Claude Code skills for writing collaboration. Capture someone's voice from real writing samples, then draft, review, and iterate prose in that voice with audience-aware critique.
 
 ## Skills
 
