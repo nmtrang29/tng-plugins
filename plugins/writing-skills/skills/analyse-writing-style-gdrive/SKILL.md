@@ -112,6 +112,23 @@ If the email's name part is ambiguous (e.g. a shared mailbox, initials only), as
 
 Write the consolidated guide to the chosen path. Confirm the path and word count to the user.
 
+### 9. Offer to set as the active writing voice
+
+After writing, ask the user:
+
+> Want to add this style guide to `~/.claude/writing-style.md` so it can be picked up by `/write-with-me`?
+
+**If no** → done.
+
+**If yes:**
+- If `~/.claude/writing-style.md` does **not** exist → write the contents of the new style guide to that file.
+- If `~/.claude/writing-style.md` **already exists** → ask a second question with three options:
+  - **Append** — add the new style guide to the end of the existing file, preceded by a horizontal rule and a heading like `## Added <YYYY-MM-DD>: from <source description>`. Useful for layering multiple voices over time.
+  - **Replace** — overwrite the existing file with the new content. Recommended if you're consolidating into a single canonical voice.
+  - **Skip** — leave `~/.claude/writing-style.md` untouched.
+
+Confirm to the user which action was taken and the final path.
+
 ## Canonical eight-section template
 
 The synthesis should follow this structure (see `references/style-guide-template.md` for the full spec and an example):
