@@ -19,10 +19,23 @@ claude plugin install writing-skills@tng-plugins
 
 ## Plugins
 
-| Plugin | Description |
+### [`writing-skills`](plugins/writing-skills/)
+
+Analyse someone's writing style at scale, then draft, review, and iterate prose in a target voice.
+
+| Skill | Description |
 |---|---|
-| [`writing-skills`](plugins/writing-skills/) | Analyse someone's writing style from Google Drive docs or blog posts; draft, review, and iterate prose in a target voice. |
-| [`reporting`](plugins/reporting/) | Summarise Claude Code activity into daily/weekly time breakdowns, drill down by ticket or tag, and format reports for terminal or chat delivery. |
+| [`analyse-writing-style-blog`](plugins/writing-skills/skills/analyse-writing-style-blog/) | Analyse the writing style of a blog or blog author by sampling many posts. |
+| [`analyse-writing-style-gdrive`](plugins/writing-skills/skills/analyse-writing-style-gdrive/) | Analyse the writing style of a person by reading their Google Docs at scale. |
+| [`write-with-me`](plugins/writing-skills/skills/write-with-me/) | Collaborative writing assistant — drafts in a target voice, reviews through the audience's eyes, iterates until it lands. |
+
+### [`reporting`](plugins/reporting/)
+
+Summarise your own work from Claude Code activity logs into time breakdowns and ticket drill-downs.
+
+| Skill | Description |
+|---|---|
+| [`activity-report`](plugins/reporting/skills/activity-report/) | Generate a time-estimate breakdown of Claude Code usage, grouped by tag and day. Supports ticket drill-down and optional chat delivery. |
 
 More coming.
 
