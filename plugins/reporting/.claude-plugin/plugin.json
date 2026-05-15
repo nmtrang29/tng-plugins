@@ -1,0 +1,8 @@
+{
+  "name": "reporting",
+  "description": "Skills for reporting on your own work. Summarise Claude Code activity into daily/weekly time breakdowns, drill down by ticket or tag, and format reports for terminal or chat delivery.",
+  "author": {
+    "name": "Trang Nguyen",
+    "url": "https://github.com/nmtrang29"
+  }
+}

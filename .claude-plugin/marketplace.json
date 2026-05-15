@@ -12,6 +12,11 @@
       "name": "writing-skills",
       "description": "Skills for writing collaboration: analyse someone's writing style at scale (Drive docs or blog posts), and draft/review/iterate prose in a target voice with audience-aware critique.",
       "source": "./plugins/writing-skills"
+    },
+    {
+      "name": "reporting",
+      "description": "Skills for reporting on your own work: summarise Claude Code activity into daily/weekly time breakdowns, drill down by ticket or tag, and format reports for terminal or chat delivery.",
+      "source": "./plugins/reporting"
     }
   ]
 }

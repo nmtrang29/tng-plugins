@@ -22,6 +22,7 @@ claude plugin install writing-skills@tng-plugins
 | Plugin | Description |
 |---|---|
 | [`writing-skills`](plugins/writing-skills/) | Analyse someone's writing style from Google Drive docs or blog posts; draft, review, and iterate prose in a target voice. |
+| [`reporting`](plugins/reporting/) | Summarise Claude Code activity into daily/weekly time breakdowns, drill down by ticket or tag, and format reports for terminal or chat delivery. |
 
 More coming.
 
