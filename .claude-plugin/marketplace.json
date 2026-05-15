@@ -1,0 +1,17 @@
+{
+  "name": "tng-plugins",
+  "owner": {
+    "name": "Trang Nguyen",
+    "url": "https://github.com/nmtrang29"
+  },
+  "metadata": {
+    "description": "Personal Claude Code plugins by Trang Nguyen. Themed plugins for product design, writing-style analysis, and personal workflows."
+  },
+  "plugins": [
+    {
+      "name": "writing-style",
+      "description": "Skills for analysing writing style at scale — sample a person's Google Drive docs or a blog's posts, then synthesise a structured style guide for imitation or reference.",
+      "source": "./plugins/writing-style"
+    }
+  ]
+}
