@@ -46,24 +46,3 @@ When plugins are updated upstream, run:
 ```bash
 /plugin update
 ```
-
-## Structure
-
-```
-tng-plugins/
-├── .claude-plugin/
-│   └── marketplace.json        # Marketplace manifest
-└── plugins/
-    └── <plugin-name>/
-        ├── .claude-plugin/
-        │   └── plugin.json     # Plugin manifest
-        ├── README.md
-        └── skills/
-            └── <skill-name>/
-                ├── SKILL.md
-                └── references/
-```
-
-## License
-
-MIT — see [LICENSE](LICENSE).
