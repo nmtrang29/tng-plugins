@@ -4,6 +4,21 @@ A growing collection of Claude Code skills for writing collaboration. Capture so
 
 ## Skills
 
+### `/write-with-me`
+
+Collaborative writing assistant. Drafts in a target voice (the user's or someone else's), reviews through the audience's eyes, iterates until it lands.
+
+**What it does:**
+1. Establishes the target voice — reads a style guide from `~/Downloads/analysed-writing-style/`, or builds one on the fly via the sibling skills if none exists
+2. Interviews the writer for context (what, audience, goal, constraints)
+3. Proposes an outline, drafts in sections with check-ins
+4. Does a holistic pass (structure + tone audit)
+5. Adopts the audience persona and gives a critical review
+6. Iterates with the user until it lands
+7. Hands off to the right platform (Confluence, Medium, Slack, etc.)
+
+**Required tools:** built-in only (`AskUserQuestion`, `Read`, `Write`). Optionally uses the Atlassian MCP for direct Confluence publishing.
+
 ### `/analyse-writing-style-gdrive <email>`
 
 Analyses the writing style of a person by reading their Google Drive docs.
