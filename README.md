@@ -19,12 +19,12 @@ claude plugin install writing-skills@tng-plugins
 
 | Plugin | Skill | Description |
 |---|---|---|
-| ✍️ writing-skills | [analyse-writing-style-blog](plugins/writing-skills/skills/analyse-writing-style-blog/) | Extract a blog's writing style from sampled posts. |
-| | [analyse-writing-style-gdrive](plugins/writing-skills/skills/analyse-writing-style-gdrive/) | Extract a person's writing style from their Drive docs. |
-| | [write-with-me](plugins/writing-skills/skills/write-with-me/) | Draft, review, and iterate in a target voice. |
-| 📊 reporting | [activity-report](plugins/reporting/skills/activity-report/) | Group Claude Code usage by tag and day; optional ticket drill-down and chat delivery. |
-| 🎨 design | [create](plugins/design/skills/create/) | Design a UI from scratch. |
-| | [critique](plugins/design/skills/critique/) | Review a UI; return prioritized feedback. |
+| ✍️ writing-skills | [analyse-writing-style-blog](plugins/writing-skills/skills/analyse-writing-style-blog/) | Sample posts from a blog and produce a structured style guide for the author's voice. |
+| | [analyse-writing-style-gdrive](plugins/writing-skills/skills/analyse-writing-style-gdrive/) | Read a person's Drive docs in parallel and produce a structured style guide for their voice. |
+| | [write-with-me](plugins/writing-skills/skills/write-with-me/) | Collaborative drafting in a target voice: outline, write in sections, audience-aware critique, iterate. |
+| 📊 reporting | [activity-report](plugins/reporting/skills/activity-report/) | Time-estimate breakdown of Claude Code activity by tag and day, with optional ticket drill-down and chat delivery. |
+| 🎨 design | [create](plugins/design/skills/create/) | Design a UI from scratch — brief → craft passes (typography, layout, color, style) → usability + accessibility → hand-off. |
+| | [critique](plugins/design/skills/critique/) | Review an existing UI through visual-craft, usability, and accessibility passes; returns prioritized, specific feedback. |
 
 More coming.
 
