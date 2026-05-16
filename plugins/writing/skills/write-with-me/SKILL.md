@@ -7,7 +7,7 @@ description: Collaborative writing assistant. Drafts in a target voice (the user
 
 Collaborative writing assistant. Draft in a target voice, review through the audience's eyes, iterate until it lands.
 
-This skill is part of the `writing-skills` plugin. It pairs with two analysis skills (`analyse-writing-style-gdrive`, `analyse-writing-style-blog`) that produce style guides — this skill *uses* those guides to draft new content.
+This skill is part of the `writing` plugin. It pairs with two analysis skills (`analyse-writing-style-gdrive`, `analyse-writing-style-blog`) that produce style guides — this skill *uses* those guides to draft new content.
 
 ## On Trigger
 

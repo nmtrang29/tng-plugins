@@ -9,9 +9,9 @@
   },
   "plugins": [
     {
-      "name": "writing-skills",
+      "name": "writing",
       "description": "Skills for writing collaboration: analyse someone's writing style at scale (Drive docs or blog posts), and draft/review/iterate prose in a target voice with audience-aware critique.",
-      "source": "./plugins/writing-skills"
+      "source": "./plugins/writing"
     },
     {
       "name": "reporting",
