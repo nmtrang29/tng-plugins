@@ -35,6 +35,15 @@ Summarise your own work from Claude Code activity logs into time breakdowns and 
 |---|---|
 | [`activity-report`](plugins/reporting/skills/activity-report/) | Generate a time-estimate breakdown of Claude Code usage, grouped by tag and day. Supports ticket drill-down and optional chat delivery. |
 
+### [`design`](plugins/design/)
+
+UI design skills sharing one craft reference set (typography, layout, color, style, imagery, elements, tactics, usability, plus UI + accessibility checklists).
+
+| Skill | Description |
+|---|---|
+| [`create`](plugins/design/skills/create/) | Design a UI from scratch — brief → craft passes → usability + accessibility → hand-off. |
+| [`critique`](plugins/design/skills/critique/) | Review an existing design and return specific, prioritized feedback through visual-craft, usability, and accessibility passes. |
+
 More coming.
 
 ## Updating
