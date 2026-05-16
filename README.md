@@ -17,32 +17,26 @@ claude plugin install writing-skills@tng-plugins
 
 ## Plugins
 
-### ✍️ `writing-skills`
-
-Analyse someone's writing style at scale, then draft, review, and iterate prose in a target voice.
+### ✍️ writing-skills
 
 | Skill | Description |
 |---|---|
-| [`analyse-writing-style-blog`](plugins/writing-skills/skills/analyse-writing-style-blog/) | Analyse the writing style of a blog or blog author by sampling many posts. |
-| [`analyse-writing-style-gdrive`](plugins/writing-skills/skills/analyse-writing-style-gdrive/) | Analyse the writing style of a person by reading their Google Docs at scale. |
-| [`write-with-me`](plugins/writing-skills/skills/write-with-me/) | Collaborative writing assistant — drafts in a target voice, reviews through the audience's eyes, iterates until it lands. |
+| [analyse-writing-style-blog](plugins/writing-skills/skills/analyse-writing-style-blog/) | Extract a blog's writing style from sampled posts. |
+| [analyse-writing-style-gdrive](plugins/writing-skills/skills/analyse-writing-style-gdrive/) | Extract a person's writing style from their Drive docs. |
+| [write-with-me](plugins/writing-skills/skills/write-with-me/) | Draft, review, and iterate in a target voice. |
 
-### 📊 `reporting`
-
-Summarise your own work from Claude Code activity logs into time breakdowns and ticket drill-downs.
+### 📊 reporting
 
 | Skill | Description |
 |---|---|
-| [`activity-report`](plugins/reporting/skills/activity-report/) | Generate a time-estimate breakdown of Claude Code usage, grouped by tag and day. Supports ticket drill-down and optional chat delivery. |
+| [activity-report](plugins/reporting/skills/activity-report/) | Group Claude Code usage by tag and day; optional ticket drill-down and chat delivery. |
 
-### 🎨 `design`
-
-UI design skills sharing one craft reference set (typography, layout, color, style, imagery, elements, tactics, usability, plus UI + accessibility checklists).
+### 🎨 design
 
 | Skill | Description |
 |---|---|
-| [`create`](plugins/design/skills/create/) | Design a UI from scratch — brief → craft passes → usability + accessibility → hand-off. |
-| [`critique`](plugins/design/skills/critique/) | Review an existing design and return specific, prioritized feedback through visual-craft, usability, and accessibility passes. |
+| [create](plugins/design/skills/create/) | Design a UI from scratch. |
+| [critique](plugins/design/skills/critique/) | Review a UI; return prioritized feedback. |
 
 More coming.
 
