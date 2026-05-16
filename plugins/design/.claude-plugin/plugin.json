@@ -1,0 +1,8 @@
+{
+  "name": "design",
+  "description": "UI design skills. Two slash-commandable assistants: `create` for designing interfaces from scratch and `critique` for reviewing existing ones — both backed by a shared reference set covering typography, layout, color, style, imagery, elements, tactics, usability fundamentals, and a UI + accessibility checklist.",
+  "author": {
+    "name": "Trang Nguyen",
+    "url": "https://github.com/nmtrang29"
+  }
+}

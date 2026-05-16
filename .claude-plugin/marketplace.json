@@ -17,6 +17,11 @@
       "name": "reporting",
       "description": "Skills for reporting on your own work: summarise Claude Code activity into daily/weekly time breakdowns, drill down by ticket or tag, and format reports for terminal or chat delivery.",
       "source": "./plugins/reporting"
+    },
+    {
+      "name": "design",
+      "description": "UI design skills. `/design:create` designs interfaces from scratch and `/design:critique` reviews existing ones — both backed by a shared reference set covering typography, layout, color, style, imagery, elements, tactics, usability fundamentals, and a UI + accessibility checklist.",
+      "source": "./plugins/design"
     }
   ]
 }
