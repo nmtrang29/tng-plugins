@@ -1,4 +1,5 @@
 # tng-plugins
+<img width="3148" height="1778" alt="gradientor_2026_5_16_16_11_10" src="https://github.com/user-attachments/assets/9f4652a4-d40a-42cb-9ed0-0a1bb8ec6828" />
 
 Personal plugin marketplace 
 
