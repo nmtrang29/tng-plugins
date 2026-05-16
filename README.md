@@ -17,7 +17,7 @@ claude plugin install writing-skills@tng-plugins
 
 ## Plugins
 
-### ✍️ [`writing-skills`](plugins/writing-skills/)
+### ✍️ `writing-skills`
 
 Analyse someone's writing style at scale, then draft, review, and iterate prose in a target voice.
 
@@ -27,7 +27,7 @@ Analyse someone's writing style at scale, then draft, review, and iterate prose 
 | [`analyse-writing-style-gdrive`](plugins/writing-skills/skills/analyse-writing-style-gdrive/) | Analyse the writing style of a person by reading their Google Docs at scale. |
 | [`write-with-me`](plugins/writing-skills/skills/write-with-me/) | Collaborative writing assistant — drafts in a target voice, reviews through the audience's eyes, iterates until it lands. |
 
-### 📊 [`reporting`](plugins/reporting/)
+### 📊 `reporting`
 
 Summarise your own work from Claude Code activity logs into time breakdowns and ticket drill-downs.
 
@@ -35,7 +35,7 @@ Summarise your own work from Claude Code activity logs into time breakdowns and 
 |---|---|
 | [`activity-report`](plugins/reporting/skills/activity-report/) | Generate a time-estimate breakdown of Claude Code usage, grouped by tag and day. Supports ticket drill-down and optional chat delivery. |
 
-### 🎨 [`design`](plugins/design/)
+### 🎨 `design`
 
 UI design skills sharing one craft reference set (typography, layout, color, style, imagery, elements, tactics, usability, plus UI + accessibility checklists).
 
