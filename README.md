@@ -1,13 +1,11 @@
 # tng-plugins
 
-Personal Claude Code plugin marketplace by [Trang Nguyen](https://github.com/nmtrang29).
-
-A growing collection of themed plugins for product design, writing analysis, and personal workflows. Each plugin is independently installable.
+Personal plugin marketplace 
 
 ## Install
 
 ```bash
-# One-time: register the marketplace
+# One-time
 claude plugin marketplace add https://github.com/nmtrang29/tng-plugins
 
 # Install a plugin
