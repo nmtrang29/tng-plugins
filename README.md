@@ -23,7 +23,7 @@ claude plugin install writing@tng-plugins
 | | [analyse-writing-style-gdrive](plugins/writing/skills/analyse-writing-style-gdrive/) | Read a person's Drive docs in parallel and produce a structured style guide for their voice. |
 | | [write-with-me](plugins/writing/skills/write-with-me/) | Collaborative drafting in a target voice: outline, write in sections, audience-aware critique, iterate. |
 | 📊 reporting | [activity-report](plugins/reporting/skills/activity-report/) | Time-estimate breakdown of Claude Code activity by tag and day, with optional ticket drill-down and chat delivery. |
-| 🎨 design | [create](plugins/design/skills/create/) | Design a UI from scratch — brief → craft passes + usability + accessibility |
+| 🎨 design | [create](plugins/design/skills/create/) | Design a UI from scratch: Brief → craft passes + usability + accessibility |
 | | [critique](plugins/design/skills/critique/) | Review an existing UI; returns prioritized, specific feedback. |
 
 More coming.
